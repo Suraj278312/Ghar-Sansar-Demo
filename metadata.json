@@ -1,0 +1,6 @@
+{
+  "name": "Ghar Sansar - Household & Plastic Store Bhuj",
+  "description": "Shop everyday household, kitchen, storage, plastic and daily-use products from Ghar Sansar with fast local delivery across Bhuj, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
